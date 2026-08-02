@@ -1,7 +1,7 @@
-## dailymoney
+## dashboard
 
 Track how you spend your money with the help of charts.\
-Just clone this repo and install streamlit, pandas, plotly.express.
+Just clone this repo and install what's being imported in the first lines of code.
 
 ### Screenshots
 <img width="1142" height="806" alt="Screenshot1" src="https://github.com/user-attachments/assets/b05b8d59-7d28-4140-916e-15ed85cbd1c8" />
